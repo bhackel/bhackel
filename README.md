@@ -1,3 +1,6 @@
+## Dear My Employer,
+### This is a **parody** of the competitive state of CS jobs. View my actual portfolio here: https://bhackel.github.io/portfolio/
+
 <h1 align="center">
     <img src="img/dark_mode.gif#gh-dark-mode-only">
     <img src="img/light_mode.gif#gh-light-mode-only">
@@ -10,7 +13,7 @@
 
 - 💬 Ask me about my freelance developer projects
 
-- 🔭 I’m currently working on **20 open-source projects**, while you sit on your ass
+- 🔭 I’m currently working on **20 open-source projects**, while you are addicted to games
 
 - 🌱 I began programming around **10 years before you started**
 
