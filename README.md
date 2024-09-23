@@ -1,5 +1,5 @@
-## Dear My Employer,
-### This is a **parody** of the competitive state of CS jobs. View my actual portfolio here: https://bhackel.github.io/portfolio/
+## Dear Employer,
+### This is a **parody** of the state of CS jobs.
 
 <h1 align="center">
     <img src="img/dark_mode.gif#gh-dark-mode-only">
